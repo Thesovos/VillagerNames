@@ -1,4 +1,4 @@
-<h1 align="center"> VillagerNames ✨ Spigot plugin [1.16.1] </h1> <br>
+<h1 align="center"> VillagerNames Spigot plugin [working in 1.18.x] </h1> <br>
 <p align="center">
   <img alt="Preview" title="Named villager" src="https://i.ibb.co/PZXbNyv/2020-03-28-16-30-34.png?raw=true" width="450">  
 </p>
@@ -21,4 +21,7 @@ By default villagers are given custom names on a 33.3% percent chance.  This can
 
 ## License
 This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Credits
+Thesovos added more names and tested in 1.18.2, credit to James for the rest.
 
