@@ -8,6 +8,7 @@
 - [Introduction](#introduction)
 - [How to start](#how-to-start)
 - [License](#license)
+- [Credits](#credits)
 
 ## Introduction
 
